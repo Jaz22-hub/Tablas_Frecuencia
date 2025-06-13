@@ -1,2 +1,2 @@
 # Tablas_Frecuencia
-Hola
+Hola mundo
