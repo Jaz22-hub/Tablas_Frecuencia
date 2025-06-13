@@ -1,13 +1,4 @@
 
-
-# Tablas_Frecuencia 
-Bienvenidoos
-=======
-# Tablas_Frecuencia
-
-hola mundo LoL
-
-=======
 # Tablas_Frecuencia
 
 ## Indice
