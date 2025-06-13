@@ -1,3 +1,7 @@
 # Tablas_Frecuencia
 
-hola mundo LoL
+## Indice
+
+1. [Tabla 1]()
+2. [Tabla 2]()
+3. [Tabla 3](https://github.com/Jaz22-hub/Tablas_Frecuencia/blob/Cristobal_Tabla_Cualitativa.ipynb/Cristobal_Tabla_Cualitativa.ipynb)
